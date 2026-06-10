@@ -1,0 +1,55 @@
+{
+  "id": "./index.html",
+  "name": "Yamazaki-Tosou 工事写真台帳",
+  "short_name": "写真台帳",
+  "description": "iPad / iPhone Safariで使える工事写真台帳PWA。写真入力、台帳作成、PDF出力に対応。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "browser"
+  ],
+  "orientation": "any",
+  "background_color": "#f4f6f8",
+  "theme_color": "#14532d",
+  "lang": "ja-JP",
+  "icons": [
+    {
+      "src": "icons/icon-120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-167.png",
+      "sizes": "167x167",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
