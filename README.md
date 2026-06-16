@@ -1,4 +1,4 @@
-# Yamazaki-Tosou 工事写真台帳
+# 工事写真台帳
 
 iPad / iPhone Safariで使う工事写真台帳です。
 写真を入れて、表紙と写真台帳をPDFで保存できます。
