@@ -1,7 +1,7 @@
-const CACHE_NAME = 'photo-ledger-cache-v10-brand-icon';
+const CACHE_NAME = 'photo-ledger-cache-v11-final-audit';
 const ASSETS = [
-  './', './index.html', './access.js', './manifest.webmanifest',
-  './icons/icon-photo-1254.png?v=1'
+  './', './index.html', './access.js', './manifest.webmanifest?v=2',
+  './icons/icon-photo-1254.png?v=2'
 ];
 
 self.addEventListener('install', event => {
