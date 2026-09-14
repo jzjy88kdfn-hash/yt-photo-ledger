@@ -10,7 +10,7 @@
   gate.setAttribute('aria-labelledby', 'accessTitle');
   gate.innerHTML = `
     <form class="accessPanel" autocomplete="off">
-      <img class="accessIcon" src="./icons/icon-180.png" alt="">
+      <img class="accessIcon" src="./icons/icon-photo-1254.png?v=1" alt="">
       <h1 id="accessTitle">工事写真台帳</h1>
       <p>パスワードを入力してください</p>
       <label for="accessPassword">パスワード</label>
